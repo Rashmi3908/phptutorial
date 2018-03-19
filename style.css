@@ -1,0 +1,9 @@
+.sidenav{
+  list-style-type: none;
+  float: left;
+}
+.float_right{
+  float: right;
+  width: 800px;
+  height: 700px;
+}
